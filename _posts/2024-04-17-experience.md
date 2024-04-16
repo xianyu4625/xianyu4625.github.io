@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "第一次上传md经验"
+title:      "第一次上传经验"
 subtitle:   " \"没想到出错在这里\""
 date:       2024-04-17 00:00:00
 author:     "xianyu4625"
