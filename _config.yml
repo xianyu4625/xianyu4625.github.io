@@ -1,12 +1,12 @@
 # Site settings
-title: Your Blog
+title: 咸鱼
 SEOTitle: 你的博客 | Your Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: ""
+email: xianyu4625@outlook.com
+description: "好好活着的高压锅"
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://xianyu4625.github.io"              # your host, for absolute URL
+# baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
