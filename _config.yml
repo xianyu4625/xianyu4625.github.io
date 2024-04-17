@@ -80,7 +80,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-work: [
+friends: [
     {
         title: "chatgpt",
         href: "https://chat18.aichatos.xyz/#/chat/1712501649617"
