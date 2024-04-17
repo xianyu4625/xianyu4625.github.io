@@ -1,6 +1,6 @@
 # Site settings
-title: 咸鱼
-SEOTitle: 你的博客 | Your Blog
+title: xianyu4625
+SEOTitle: 阿强 | xianyu4625 Blog
 header-img: img/home-bg.jpg
 email: xianyu4625@outlook.com
 description: "好好活着的高压锅"
@@ -50,9 +50,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: xianyublog
+duoshuo_username: false
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 
